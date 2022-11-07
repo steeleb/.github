@@ -2,7 +2,7 @@
 ### (he/him or they/them)
 
 
-Data Scientist in the [ROSS lab](https://github.com/OpenEcoDataLab), Ecosystem Science and Sustainability Department of Colorado State University.
+Data Scientist in the [ROSS lab](https://github.com/ROSSyndicate), Ecosystem Science and Sustainability Department of Colorado State University.
 
 
 Git co-parent of [lakeCoSTR](https://github.com/lakeCoSTR/lakeCoSTR_colab).
